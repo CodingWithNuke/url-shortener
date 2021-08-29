@@ -1,0 +1,32 @@
+{
+  "name": "ronnie.link",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "core-js": "^3.15.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mongoose": "^6.0.2",
+    "morgan": "^1.10.0",
+    "nanoid": "^3.1.25",
+    "nuxt": "^2.15.7",
+    "nuxt-client-init-module": "^0.3.0",
+    "vuetify": "^2.5.5"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.15.7",
+    "@nuxt/typescript-build": "^2.1.0",
+    "@nuxtjs/vuetify": "^1.12.1",
+    "@types/express": "^4.17.13",
+    "@types/helmet": "^4.0.0",
+    "@types/morgan": "^1.9.3"
+  }
+}
