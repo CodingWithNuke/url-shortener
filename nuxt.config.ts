@@ -6,7 +6,7 @@ const config: NuxtConfig = {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     titleTemplate: '%s - ronnie.link',
-    title: 'ronnie.link',
+    title: 'URL Shortener',
     htmlAttrs: {
       lang: 'en'
     },
