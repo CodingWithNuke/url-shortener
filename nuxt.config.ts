@@ -82,7 +82,7 @@ const config: NuxtConfig = {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: process.env.NODE_ENV !== 'production' ? 'http://localhost:3000/api' : '/api'
+    baseURL: process.env.NODE_ENV !== 'production' ? 'http://localhost:3000/api' : 'https://ronnie.link/api'
   },
 
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
